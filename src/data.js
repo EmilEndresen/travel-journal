@@ -34,4 +34,4 @@ export default [
     date: "25 Nov, 2017 - 12 Dec. 2017",
     image: "KohSamui.jpg",
   },
-];
+]

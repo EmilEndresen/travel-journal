@@ -1,4 +1,4 @@
-import globe from "../globe.svg";
+import globe from "../globe.svg"
 
 export default function Nav() {
   return (
@@ -8,5 +8,5 @@ export default function Nav() {
         <h3 className="logo">My travel journal.</h3>
       </div>
     </nav>
-  );
+  )
 }

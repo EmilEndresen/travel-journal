@@ -1,5 +1,5 @@
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faMapMarkerAlt } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { faMapMarkerAlt } from "@fortawesome/free-solid-svg-icons"
 
 export default function Card(props) {
   return (
@@ -16,5 +16,5 @@ export default function Card(props) {
         <p className="card-description">{props.item.description}</p>
       </div>
     </div>
-  );
+  )
 }
